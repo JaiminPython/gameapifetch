@@ -1,4 +1,4 @@
-##API for fetching game data
+## API for fetching game data
 
 
 ```
